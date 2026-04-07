@@ -1,6 +1,4 @@
 Manifest-Version: 1.0
-Built-By: User
-Build-Jdk: 21.0.8
-Main-Class: demo.Sample1
+Build-Jdk-Spec: 21
 Created-By: Maven Integration for Eclipse
 
